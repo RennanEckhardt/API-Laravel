@@ -10,6 +10,7 @@
 # Sobre o Projeto
 O projeto Consistia em fazer uma API utilizando de PHP e um Banco de dados da minha escolha.
 Para o projeto eu usei laravel, Xampp/MySQLe o Postman.
+
 **Iniciando o Projeto**
 ### Passo 1
 Crie a tabela **polígonos** no banco MySQL e garanta que ele esteja configurado de acordo com o arquivo **.env**
