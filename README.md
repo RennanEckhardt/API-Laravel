@@ -26,7 +26,7 @@ Para instalar as dependências do projeto execute os códigos abaixo na sua past
 ```sh
 1- composer install
 2- php artisan migrate
-3-php artisan serve
+3- php artisan serve
 ```
 ### Usando a API
 
