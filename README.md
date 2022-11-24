@@ -30,6 +30,7 @@ Para instalar as dependências do projeto execute os códigos abaixo na sua past
 3- php artisan serve
 ```
 ### Usando a API
+Abra o Postman.
 
 Para cadastrar um triângulo acesse a rota http://localhost:8000/api/triangle e inserir no corpo da requisição os valores para "base" e "height" do polígono.
 **Exemplo**
